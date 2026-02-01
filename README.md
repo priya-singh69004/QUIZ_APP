@@ -16,6 +16,8 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 ⚡ Fast and lightweight (no frameworks)
 
+
+
 🛠️ Technologies Used
 
 HTML – Structure of the application
@@ -23,6 +25,8 @@ HTML – Structure of the application
 CSS – Styling and layout
 
 JavaScript – Quiz logic, event handling, and dynamic updates
+
+
 
 📌 How It Works
 
@@ -33,6 +37,8 @@ The app checks correctness instantly
 Score is updated in real time
 
 Final score is displayed after completing the quiz
+
+
 
 📂 Project Purpose
 
@@ -46,6 +52,8 @@ Learn event handling
 
 Improve logical thinking through real-world implementation
 
+
+
 🌱 Future Improvements
 
 Timer-based questions ⏱️
@@ -55,6 +63,8 @@ Question categories 📚
 High-score tracking 🏆
 
 API-based questions 🌐
+
+
 
 👩‍💻 Author
 
