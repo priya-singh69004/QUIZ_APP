@@ -69,5 +69,7 @@ API-based questions 🌐
 👩‍💻 Author
 
 Priya Singh
+
 Beginner JavaScript Developer 🚀
+
 Learning by building real projects 💻
